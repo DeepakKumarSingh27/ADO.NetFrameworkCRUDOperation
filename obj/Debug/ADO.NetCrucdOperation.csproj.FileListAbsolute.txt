@@ -1,0 +1,7 @@
+E:\CSharp\ADO.NetCrucdOperation\ADO.NetCrucdOperation\bin\Debug\ADO.NetCrucdOperation.exe.config
+E:\CSharp\ADO.NetCrucdOperation\ADO.NetCrucdOperation\bin\Debug\ADO.NetCrucdOperation.exe
+E:\CSharp\ADO.NetCrucdOperation\ADO.NetCrucdOperation\bin\Debug\ADO.NetCrucdOperation.pdb
+E:\CSharp\ADO.NetCrucdOperation\ADO.NetCrucdOperation\obj\Debug\ADO.NetCrucdOperation.csproj.AssemblyReference.cache
+E:\CSharp\ADO.NetCrucdOperation\ADO.NetCrucdOperation\obj\Debug\ADO.NetCrucdOperation.csproj.CoreCompileInputs.cache
+E:\CSharp\ADO.NetCrucdOperation\ADO.NetCrucdOperation\obj\Debug\ADO.NetCrucdOperation.exe
+E:\CSharp\ADO.NetCrucdOperation\ADO.NetCrucdOperation\obj\Debug\ADO.NetCrucdOperation.pdb
